@@ -1,4 +1,4 @@
-<img align="right" style="margin-top:-70px" src="https://sdk.bitmoji.com/render/panel/10207747-102752074142_3-s5-v1.png?transparent=1&palette=1&scale=2" width="340" height="340" >
+<img align="right" style="margin-top:-70px" src="https://sdk.bitmoji.com/render/panel/10207747-102752074142_4-s5-v1.png?transparent=1&palette=1&scale=2" width="340" height="340" >
 
 <h1>Pedro Lucas</h1>
 <h2> Seja bem-vindo(a) ao meu perfil !👋</h2>
