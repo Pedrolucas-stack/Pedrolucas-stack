@@ -18,7 +18,6 @@
 
 <h3>📚 Tecnologias que estudo atualmente:</h3>
 <div display="inline-block">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="50" height="50"/>
 &nbsp;
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" width="40" height="40"/>
 </div>
