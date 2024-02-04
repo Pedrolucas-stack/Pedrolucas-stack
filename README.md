@@ -3,7 +3,7 @@
 <h1>Pedro Lucas</h1>
 <h2> Seja bem-vindo(a) ao meu perfil !👋</h2>
 <div>
-  <p>Tenho 20 anos, moro em Ribeirão Preto - SP e sou apaixonado pelo universo da tecnologia e por tudo o que ela tem a oferecer. Gosto de praticar atividade física e, além disso, sou um grande fã de rock'n'roll. 🤘🏻⚡</p></div>
+  <p>Sou um desenvolvedor Front-End apaixonado pelo universo da tecnologia e por todas as oportunidades que ela oferece. Tenho o firme desejo de aprimorar constantemente minhas habilidades profissionais nesse mercado dinâmico, visando me tornar um excelente profissional.</p></div>
 
 <h3>💻 Tecnologias e Ferramentas que utilizo:</h3>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/></code>
