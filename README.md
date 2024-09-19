@@ -1,4 +1,4 @@
-<img align="right" style="margin-top:-70px" src="https://sdk.bitmoji.com/render/panel/10207747-102752074142_4-s5-v1.png?transparent=1&palette=1&scale=2" width="340" height="340" >
+<img align="right" style="margin-top:-70px" src="https://sdk.bitmoji.com/render/panel/10207747-102752074142_4-s5-v1.png?transparent=1&palette=1&scale=2" width="340" height="340">
 
 <h1>Pedro Lucas</h1>
 <h2> Seja bem-vindo(a) ao meu perfil !👋</h2>
@@ -10,17 +10,10 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35"/></code>
 
 </br>
 </br>
-
-<h3>📚 Tecnologias que estudo atualmente:</h3>
-<div display="inline-block">
-&nbsp;
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" width="40" height="40"/>
-</div>
 
 </br>
 
