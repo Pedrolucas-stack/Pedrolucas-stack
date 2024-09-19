@@ -26,14 +26,14 @@
 <a href = "mailto:marquespedrolucas4@gmail.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png?20201023123349" width="90" height="35" target="_blank"></a>
 </div>
 
-<div align="center">
+<div align="flex-start">
   <img src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="200">
 </div>
 
 </br>
 </br>
 
-<div align="center">
+<div align="flex-start">
 <a href="https://github.com/Pedrolucas-stack">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrolucas-stack&theme=dark&show_icons=true"/>
 </a>
