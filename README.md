@@ -35,9 +35,6 @@
 
 <div align="center">
 <a href="https://github.com/Pedrolucas-stack">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolucas-stack&layout=compact&langs_count=7&theme=dark"/>
-</a>
-<a href="https://github.com/Pedrolucas-stack">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrolucas-stack&theme=dark&show_icons=true"/>
 </a>
 </div>
