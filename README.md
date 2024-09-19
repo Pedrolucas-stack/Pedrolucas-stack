@@ -15,7 +15,7 @@
 
 </br>
 
-<h2>Meus Contatos:</h2> 
+<h2>🌐 Conecte-se comigo</h2> 
 <div><p>📫 Entre em contato comigo, estarei disponível para uma conversa!</p></div>
 
 <div>
