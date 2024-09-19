@@ -1,5 +1,5 @@
-<h1>Pedro Lucas</h1>
-<h2> Seja bem-vindo(a) ao meu perfil !👋</h2>
+<h1>Olá, me chamo Pedro Lucas!</h1>
+<h2> Seja bem-vindo(a) ao meu perfi!👋</h2>
 <div>
   <p>Sou um desenvolvedor Front-End apaixonado pelo universo da tecnologia e por todas as oportunidades que ela oferece. Tenho o firme desejo de aprimorar constantemente minhas habilidades profissionais nesse mercado dinâmico, visando me tornar um excelente profissional.</p></div>
 
