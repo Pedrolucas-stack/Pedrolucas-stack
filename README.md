@@ -19,7 +19,7 @@
 <div><p>📫 Entre em contato comigo, estarei disponível para uma conversa!</p></div>
 
 <div>
-<a href="https://www.instagram.com/ferreira_pedrolucas/" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622" width="35" height="35" target="_blank"></a>
+<a href="https://www.instagram.com/ferreira_pedrolucas/" target="_blank"><img loading="lazy" src="href="https://iconscout.com/3d-illustrations/instagram" width="35" height="35" target="_blank"></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/pedro-lucas-ferreira-marques/" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="35" height="35" target="_blank"></a>
 &nbsp; 
