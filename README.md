@@ -3,8 +3,6 @@
 <div>
   <p>Sou um desenvolvedor Front-End apaixonado pelo universo da tecnologia e por todas as oportunidades que ela oferece. Tenho o firme desejo de aprimorar constantemente minhas habilidades profissionais nesse mercado dinâmico, visando me tornar um excelente profissional.</p></div>
 
-<img align="right" src="https://sdk.bitmoji.com/render/panel/10207747-102752074142_4-s5-v1.png?transparent=1&palette=1&scale=2" width="300" height="300">
-
 <h3>💻 Tecnologias e Ferramentas que utilizo:</h3>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/></code>
